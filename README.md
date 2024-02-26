@@ -8,8 +8,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AltSumpreme&theme=tokyonight)
-
 
 <!---
 AltSumpreme/AltSumpreme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
