@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning Python,C,C++,Flutter
 - 💞️ I’m looking to collaborate on projects that interest me
-- 📫 How to reach me - Discord-Revlin
+- 📫 How to reach me - Discord-hesoyam0314
 - ⚡ Fun fact:A group of flamingos is called a "flamboyance".
 
 
